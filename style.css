@@ -1,0 +1,27 @@
+#container{
+  height: 500px;
+  width: 700px;
+}
+.sonic{
+  height: 200px;
+  width: 150px;
+  display: inline-block;
+}
+
+#button{
+  height: 50px;
+  width: 150px;
+  position: relative;
+  left: 230px;
+  color: blue;
+  font-size: 30px;
+}
+
+#wrapper{
+  height: 500px;
+  width: 600px;
+  position: relative;
+  left: 120px;
+  top:100px;
+  background-image: url(galaxy.jpg);
+}
